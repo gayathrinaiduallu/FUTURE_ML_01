@@ -247,8 +247,7 @@ From the 12-week forecast (Jan–Mar 2018):
 **Gayathri**  
 Machine Learning Intern — Future Interns (2026)  
 
-AUTHOR : https://www.linkedin.com/in/gayathri-allu-290872319?utm_source=share_via&utm_content=profile&utm_medium=member_android
-COMPANY: https://www.linkedin.com/company/future-interns/
+https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin
 --
 
 ## 📄 License
