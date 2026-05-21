@@ -178,7 +178,7 @@ GradientBoostingRegressor(
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ml-task-1-sales-forecasting.git
+git clone https://github.com/gayathrinaiduallu/FUTURE_ML_01.git
 cd ml-task-1-sales-forecasting
 ```
 
